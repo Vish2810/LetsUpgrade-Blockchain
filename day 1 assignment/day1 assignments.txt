@@ -1,0 +1,32 @@
+Day 1 Assignment
+
+Q.1 What is your understanding of Block-chain?
+
+Ans: It is a concept derived by mix technology to ensures data is not changed or tampered and is verifiable at any given instance. It is a combination of cryptography and distributed database where data is segmented in blocks which are stored in multiple machines. It is one-way encryption & for every data it generates a unique hash.
+
+Q.2 What is the core problem block-chain trying to solve?
+
+Ans: Core Problem which can be solved using block-chain is security, authenticity & trust monopoly of data.
+
+Q.3 What are the few features which block-chain will give u?
+
+Ans : Transparency of data
+Tamper Proof Data
+Immutable / Unchanged data
+Verifiable data
+Highly secure
+
+
+Q.4 What all things does a Block Contain?
+
+Ans: A block within a chain of blocks consists of
+1. block number;
+2. Transaction records;
+3. previous block signature;
+4. mining key.
+
+First block in chain is called Genesis block and its previous block signature is blank
+
+Q.5 How is the Verifiability of Block-chain is been attained?
+
+Ans: Verifiability is attained by comparing hash generated of data which always includes hash of previous data, at a given time hash should match. Since its one-way encryption, verification is done by comparing hash.
