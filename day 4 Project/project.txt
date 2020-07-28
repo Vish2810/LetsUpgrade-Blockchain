@@ -1,0 +1,2 @@
+Deployment of the student Record smart contract can be found @0x04303AaF241a3Bf83DCAc533dd8c910c0a715595 in
+ https://ropsten.etherscan.io/address/0x04303aaf241a3bf83dcac533dd8c910c0a715595
